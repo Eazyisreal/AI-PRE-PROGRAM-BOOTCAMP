@@ -1,6 +1,6 @@
 # FastAPI Full Name API
 
-This FastAPI application takes the first and last name of a user as input and returns the user's full name.
+This FastAPI application provides an API endpoint to upload PDF files and store them to disk.
 
 ## Prerequisites
 
